@@ -274,11 +274,11 @@ We welcome contributions! Please follow these steps:
 
 ## 📞 Contact
 
-**Project Lead:** Rohan Pal  
-**Email:** rohan49421@gmail.com
+**Project Lead:** Rohit Kumar  
+**Email:** viciousdotro@gmail.com
 
 **Team Members:**
-- Rohan Pal - Full Stack Developer
+- Rohit Kumar - Full Stack Developer
 - Rachit - Backend Developer
 - Additional team members
 
@@ -300,13 +300,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-<div align="center">
-
-**Made with ❤️ for better communities**
-
-[![GitHub stars](https://img.shields.io/github/stars/Rachit-31/Janhit?style=social)](https://github.com/Rachit-31/Janhit)
-[![GitHub forks](https://img.shields.io/github/forks/Rachit-31/Janhit?style=social)](https://github.com/Rachit-31/Janhit)
-[![GitHub issues](https://img.shields.io/github/issues/Rachit-31/Janhit)](https://github.com/Rachit-31/Janhit/issues)
-
-</div>
 
