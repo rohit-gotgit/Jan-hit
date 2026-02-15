@@ -8,41 +8,41 @@
 
 ---
 
-## 🌟 Overview
+##  Overview
 
 **Janhit** is a revolutionary civic engagement platform that bridges the gap between citizens and local government. Built with cutting-edge technology, it provides a seamless way for residents to report, track, and resolve community issues while enabling officials to manage and prioritize problems efficiently.
 
-### 🎯 Mission
+###  Mission
 Transform local governance by creating a transparent, accountable, and participatory system where every citizen's voice matters.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 🗺️ **Interactive Map-Based Reporting**
+###  **Interactive Map-Based Reporting**
 - **Pin-drop functionality** for precise issue location
 - **Real-time geolocation** integration
 - **Visual problem mapping** with categorized markers
 - **Distance-based sorting** for local relevance
 
-### 🗳️ **Democratic Voting System**
+###  **Democratic Voting System**
 - **Severity-based voting** (1-5 scale)
 - **Community-driven prioritization**
 - **Automatic vote counting** for issues with severity ≥3
 - **Transparent rating system**
 
-### 👥 **Dual User Interface**
+###  **Dual User Interface**
 - **Citizen Dashboard**: Report issues, track progress, vote on problems
 - **Official Dashboard**: Manage assignments, update status, resolve issues
 - **Role-based access control** with JWT authentication
 
-### 💬 **Social Engagement**
+###  **Social Engagement**
 - **Comment system** for community discussion
 - **Real-time updates** on issue status
 - **User interaction** and feedback loops
 - **Issue categorization** (Road, Sewage, Garbage, etc.)
 
-### 📊 **Advanced Analytics**
+###  **Advanced Analytics**
 - **Issue tracking** with status updates
 - **Vote analytics** and community sentiment
 - **Geographic problem clustering**
@@ -50,7 +50,7 @@ Transform local governance by creating a transparent, accountable, and participa
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Frontend
 - **React 18** with TypeScript for type safety
@@ -75,11 +75,11 @@ Transform local governance by creating a transparent, accountable, and participa
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 **Experience Janhit in action:** [https://janhit-flame.vercel.app/](https://janhit-flame.vercel.app/)
 
-### 🔑 Demo Credentials
+###  Demo Credentials
 **Test the application with these demo credentials:**
 
 | Role | Email | Password |
@@ -91,26 +91,26 @@ Transform local governance by creating a transparent, accountable, and participa
 
 ---
 
-## 📱 Screenshots
+##  Screenshots
 
-### 🏠 Homepage
+###  Homepage
 ![Homepage](https://github.com/user-attachments/assets/c76bc122-98c4-4adf-9502-d47b2ee9e2b3)
 
-### 🗺️ Interactive Map
+###  Interactive Map
 ![Interactive Map](https://github.com/user-attachments/assets/2369af92-03aa-4c2b-9574-96d1a662fdf8)
 
-### 👤 User Dashboard
+###  User Dashboard
 ![User Dashboard](https://github.com/user-attachments/assets/fa27ddcd-0081-42f3-87b6-d2a924cd4e83)
 
-### 🏛️ Official Dashboard
+###  Official Dashboard
 ![Official Dashboard](https://github.com/user-attachments/assets/be75a3d2-7060-40a0-9356-400a89583cdd)
 
-### 📊 Issue Management
+###  Issue Management
 ![Issue Management](https://github.com/user-attachments/assets/bffd4cd4-d8e3-4efb-a6a4-57fd35022875)
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 Janhit/
@@ -134,7 +134,7 @@ Janhit/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - **Node.js** (v16 or higher)
@@ -212,7 +212,7 @@ Visit `http://localhost:5173` to see the application!
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 ### The Challenge
 Local communities face significant challenges in civic issue reporting:
@@ -232,7 +232,7 @@ Janhit addresses these challenges by providing:
 
 ---
 
-## 🌟 Key Benefits
+##  Key Benefits
 
 ### For Citizens
 - **Easy reporting** with map-based interface
@@ -254,7 +254,7 @@ Janhit addresses these challenges by providing:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please follow these steps:
 
@@ -272,7 +272,7 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📞 Contact
+##  Contact
 
 **Project Lead:** Rohit Kumar  
 **Email:** viciousdotro@gmail.com
@@ -284,13 +284,13 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **React Team** for the amazing frontend framework
 - **Leaflet.js** for interactive mapping capabilities
