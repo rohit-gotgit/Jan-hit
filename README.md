@@ -2,9 +2,6 @@
 
 > **Empowering Communities Through Digital Democracy**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge&logo=vercel)](https://janhit-flame.vercel.app/)
-[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-MERN%20Stack-orange?style=for-the-badge&logo=javascript)](https://janhit-flame.vercel.app/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 ---
 
