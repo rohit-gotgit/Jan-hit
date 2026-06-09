@@ -10,7 +10,7 @@
 **Janhit** is a revolutionary civic engagement platform that bridges the gap between citizens and local government. Built with cutting-edge technology, it provides a seamless way for residents to report, track, and resolve community issues while enabling officials to manage and prioritize problems efficiently.
 
 ###  Mission
-Transform local governance by creating a transparent, accountable, and participatory system where every citizen's voice matters
+Transform local governance by creating a transparent, accountable, and participatory system where every citizen's voice matters.
 
 ---
 
