@@ -5,11 +5,10 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Leaflet-Geospatial%20Mapping-199900" />
-<img src="https://img.shields.io/badge/Community-Driven%20Prioritization-blueviolet" />
+<p align="center">
+  <img height="48" src="https://skillicons.dev/icons?i=react,nodejs,mongodb,ts" />
+  <img height="48" src="https://cdn.simpleicons.org/leaflet/199900" />
+</p>
 
 </div>
 
