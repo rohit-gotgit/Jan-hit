@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Leaflet-Geospatial%20Mapping-199900" />
-<img src="https://img.shields.io/badge/Community-Driven%20Prioritization-blueviolet" />
+<img src="https://img.shields.io/badge/Community-Driven%20Prioritization-orange" />
 
 </div>
 
