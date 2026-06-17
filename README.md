@@ -9,8 +9,7 @@
 <img src="https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Leaflet-Geospatial%20Mapping-199900" />
-<img src="https://img.shields.io/badge/JWT-Secure%20Authentication-orange" />
-<img src="https://img.shields.io/badge/Role--Based-Access%20Control-blueviolet" />
+<img src="https://img.shields.io/badge/Community-Driven%20Prioritization-blueviolet" />
 
 </div>
 
