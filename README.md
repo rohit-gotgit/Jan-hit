@@ -194,7 +194,7 @@ Visit `http://localhost:5173` to see the application!
 
 ---
 
-## 🔧 API Endpoints
+## API Endpoints
 
 ### Authentication
 - `POST /api/auth/register` - User registration
@@ -287,12 +287,6 @@ We welcome contributions! Please follow these steps:
 - Rohit Kumar - Full Stack Developer
 - Rachit - Backend Developer
 - Additional team members
-
----
-
-##  License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
