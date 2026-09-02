@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # 🏛️ Janhit - Civic Engagement Platform 
 **Empowering Communities Through Digital Democracy**
 
